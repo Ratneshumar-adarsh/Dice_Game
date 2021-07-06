@@ -1,0 +1,42 @@
+body {
+  background-color: #393e46;
+}
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+h1 {
+  margin: 30px;
+  font-family: "Lobster", cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ecca3;
+}
+p {
+  font-size: 2rem;
+  font-family: "Lobster", cursive;
+  color: #4ecca3;
+}
+.img {
+  width: 80%;
+  margin-left: 180px;
+}
+.dice {
+  text-align: center;
+  display: inline-block;
+  margin: 50px;
+}
+footer {
+  margin-top: 5%;
+  color: #eeeeee;
+  text-align: center;
+  font-family: "Indie Flower", cursive;
+  margin-bottom: 5%;
+  font-size: 1.1rem;
+}
+
+.gif {
+  width: 100px;
+  height: 100px;
+}
